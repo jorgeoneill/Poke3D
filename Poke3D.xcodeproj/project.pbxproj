@@ -7,21 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CF453CDB2260D8F700CABC0D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF453CDA2260D8F700CABC0D /* Assets.xcassets */; };
 		CFAD2C6B225F984100CBCAEE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFAD2C6A225F984100CBCAEE /* AppDelegate.swift */; };
 		CFAD2C6D225F984100CBCAEE /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = CFAD2C6C225F984100CBCAEE /* art.scnassets */; };
 		CFAD2C6F225F984100CBCAEE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFAD2C6E225F984100CBCAEE /* ViewController.swift */; };
 		CFAD2C72225F984100CBCAEE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFAD2C70225F984100CBCAEE /* Main.storyboard */; };
-		CFAD2C74225F984300CBCAEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFAD2C73225F984300CBCAEE /* Assets.xcassets */; };
 		CFAD2C77225F984300CBCAEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFAD2C75225F984300CBCAEE /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CF453CDA2260D8F700CABC0D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../../../../.Trash/Assets.xcassets; sourceTree = "<group>"; };
 		CFAD2C67225F984100CBCAEE /* Poke3D.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Poke3D.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFAD2C6A225F984100CBCAEE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CFAD2C6C225F984100CBCAEE /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		CFAD2C6E225F984100CBCAEE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CFAD2C71225F984100CBCAEE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		CFAD2C73225F984300CBCAEE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CFAD2C76225F984300CBCAEE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CFAD2C78225F984300CBCAEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -57,10 +57,10 @@
 			isa = PBXGroup;
 			children = (
 				CFAD2C6A225F984100CBCAEE /* AppDelegate.swift */,
+				CF453CDA2260D8F700CABC0D /* Assets.xcassets */,
 				CFAD2C6C225F984100CBCAEE /* art.scnassets */,
 				CFAD2C6E225F984100CBCAEE /* ViewController.swift */,
 				CFAD2C70225F984100CBCAEE /* Main.storyboard */,
-				CFAD2C73225F984300CBCAEE /* Assets.xcassets */,
 				CFAD2C75225F984300CBCAEE /* LaunchScreen.storyboard */,
 				CFAD2C78225F984300CBCAEE /* Info.plist */,
 			);
@@ -127,7 +127,7 @@
 			files = (
 				CFAD2C6D225F984100CBCAEE /* art.scnassets in Resources */,
 				CFAD2C77225F984300CBCAEE /* LaunchScreen.storyboard in Resources */,
-				CFAD2C74225F984300CBCAEE /* Assets.xcassets in Resources */,
+				CF453CDB2260D8F700CABC0D /* Assets.xcassets in Resources */,
 				CFAD2C72225F984100CBCAEE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
